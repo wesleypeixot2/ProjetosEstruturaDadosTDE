@@ -16,7 +16,7 @@ public class LinguagemUtilizada {
 ## Trabalho Prático 1 - Labirinto em Pilha 
 Este primeiro trabalho foi executado utilizando a estrutura de dados chamada de pilha. 
 
-O objetivo deste programa é a criação de uma estrutura executada em pilha do qual o computador é capaza de chegar de um ponto até outro dentro do labaritinto.
+O objetivo deste programa é a criação de uma estrutura executada em pilha do qual o computador é capaza de chegar de um ponto até outro dentro do labaritinto criado na liguagem Java.
 
 O programa já inicia na casa **E [3][2]** e consegue através de uma sequência programada encontrar seu próprio caminho de saída na casa **S [5][2]**:
 
@@ -61,15 +61,12 @@ Caso ele faça tudo corretamente e os valores da lista esteja de acordo com os v
 ![](PROJETOESTRUTURADADOSTDE/img/../../img/TL4.png)
 
 ## Trabalho 3 - Linked List 
-Este terceiro trabalho foi executado utilizando a estrutura de dados chamada de Lista duplamente encadeada com Generics. 
+Este primeiro trabalho foi executado utilizando a estrutura de dados chamada de pilha. 
 
-O objetivo deste programa é a criação de uma estrutura executada com lista duplamente encadeada utilizando generics, do qual através dele podemos inserir outros tipos de elementos dentro de uma lista. O programa executa demosntrando o funcionamento da lista na sua inserção e remoção de elementos.
+O objetivo deste programa é a criação de uma estrutura executada em pilha do qual o computador é capaza de chegar de um ponto até outro dentro do labaritinto criado na liguagem Java.
 
-Primeiro a inserção de itens:
+O programa já inicia na casa E [3][2] e consegue através de uma sequência programada encontrar seu próprio caminho de saída na casa S [5][2]:
 
-![](PROJETOESTRUTURADADOSTDE/img/../../img/TLL1.png)
+![]()
 
-Segundo a remoção de itens da lista e a inserção de mais um novo item:
-
-![](PROJETOESTRUTURADADOSTDE/img/../../img/TLL2.png)
 
